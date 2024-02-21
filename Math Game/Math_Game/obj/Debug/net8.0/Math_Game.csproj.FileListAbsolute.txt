@@ -1,0 +1,14 @@
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\bin\Debug\net8.0\Math_Game.exe
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\bin\Debug\net8.0\Math_Game.deps.json
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\bin\Debug\net8.0\Math_Game.runtimeconfig.json
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\bin\Debug\net8.0\Math_Game.dll
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\bin\Debug\net8.0\Math_Game.pdb
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.AssemblyInfoInputs.cache
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.AssemblyInfo.cs
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.dll
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\refint\Math_Game.dll
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.pdb
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.genruntimeconfig.cache
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\ref\Math_Game.dll
