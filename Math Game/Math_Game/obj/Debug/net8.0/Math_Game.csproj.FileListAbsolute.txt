@@ -12,3 +12,4 @@ C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_G
 C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.pdb
 C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.genruntimeconfig.cache
 C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\ref\Math_Game.dll
+C:\Users\PMLS\Documents\Ashhad's Files\C# Projects\Console Apps\Math Game\Math_Game\obj\Debug\net8.0\Math_Game.sourcelink.json
